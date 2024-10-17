@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // Those are some of the first changes
+
+        // Changes that were made in master in the meantime
     }
 }
